@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="github-readme" src="YOUR_IMAGE_URL" />
+  <img width="500" alt="github-readme" src="https://github.com/mravishkar06/Avishkar/blob/main/Neon%20Cyan%20Hello%20Avishkar%20Banner.png" />
 </p>
 
 <p align="center">
